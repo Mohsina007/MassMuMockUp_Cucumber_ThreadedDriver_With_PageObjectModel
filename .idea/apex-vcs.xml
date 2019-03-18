@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-move-record>
+      <option name="firstPath" value="/src/test/java/com/mohsina/myStore/qa/funtional/FunctionalShellRunner.java" />
+      <option name="path" value="/src/test/java/com/mohsina/myStore/qa/functional/FunctionalShellRunner.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/test/java/com/mohsina/myStore/qa/funtional/ValuesPageFunctionality.java" />
+      <option name="path" value="/src/test/java/com/mohsina/myStore/qa/functional/ValuesPageFunctionality.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/test/java/com/mohsina/myStore/qa/funtional/HomePageFunctionality.java" />
+      <option name="path" value="/src/test/java/com/mohsina/myStore/qa/functional/HomePageFunctionality.java" />
+    </index-move-record>
+  </component>
+</project>
